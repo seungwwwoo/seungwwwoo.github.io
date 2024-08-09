@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621299136186",
+    "project_id": "cruise-the-romantic-93561116",
+    "storage_bucket": "cruise-the-romantic-93561116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621299136186:android:c375a02e7ae62d756b3483",
+        "android_client_info": {
+          "package_name": "pier.story.cruise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621299136186-2bs16s6qo6a49u69qmcgmvjn8qn7fff3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqJEKz5JraOWCxhRmb5PPmZVoVbB24QLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621299136186-2bs16s6qo6a49u69qmcgmvjn8qn7fff3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
